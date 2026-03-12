@@ -1,0 +1,6 @@
+rsa>=4.9
+cryptography>=42.0
+
+[dev]
+pytest>=8.0
+pytest-cov>=5.0
